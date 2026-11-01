@@ -1,5 +1,5 @@
 # Flow Takeout Organizer
-<img src="[https://i.imgur.com/BiwxWyN.jpe](https://i.imgur.com/8ZwkoUt.jpeg)" alt="Descripción de la imagen" width="100%">
+<img src="https://i.imgur.com/BiwxWyN.jpe](https://i.imgur.com/8ZwkoUt.jpeg" alt="Descripción de la imagen" width="100%">
 Sorts a **Google Takeout** export of **Google Flow** back into folders, and optionally writes each item's prompt and metadata **inside** the image or video so prompt-reader tools can read it by drag and drop.
 
 Google Takeout dumps every generated item into a single `Flow/media/` folder (`<id>.jpg` + `<id>_metadata.json`), losing the collections you had in Flow. This tool rebuilds the folders from the JSON files in the export.
