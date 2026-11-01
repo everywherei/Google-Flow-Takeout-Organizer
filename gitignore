@@ -1,0 +1,19 @@
+# Never commit your own exports: they are large and contain your private prompts/images
+takeout-*/
+Takeout/
+project/
+*.rar
+*.zip
+
+# Python / PyInstaller
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
