@@ -1,4 +1,4 @@
-# Google Flow Takeout Organizer
+# Flow Takeout Organizer
 <img src="https://i.imgur.com/8ZwkoUt.jpeg" alt="Descripción de la imagen" width="100%">
 Sorts a **Google Takeout** export of **Google Flow** back into folders, and optionally writes each item's prompt and metadata **inside** the image or video so prompt-reader tools can read it by drag and drop.
 
