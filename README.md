@@ -17,6 +17,7 @@ Google Takeout dumps every generated item into a single `Flow/media/` folder (`<
 - Double-click mode, no paths needed. Standard library only (Python 3.8+).
 
 ## Quick start (Windows, double-click)
+First of all, download your Google Flow data from here https://takeout.google.com/ just select the Flow mark. 
 
 1. Download `organize_flow.py` and `RUN.bat`.
 2. Put both next to the `Flow` folder (inside the `Takeout` folder), or put a built `OrganizeFlow.exe` there.
