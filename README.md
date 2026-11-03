@@ -19,7 +19,17 @@ Google Takeout dumps every generated item into a single `Flow/media/` folder (`<
 ## Quick start (Windows, double-click)
 VIDEO TUTORIAL: https://www.youtube.com/watch?v=I6SVn_44BlI&feature=youtu.be
 First of all, download your Google Flow data from here https://takeout.google.com/ just select the Flow mark. 
+You need to have Python installed to run the .bat script or to build the .exe https://www.python.org/downloads/
+You don't need any of that if you download the .exe from the releases page https://github.com/everywherei/Google-Flow-Takeout-Organizer/releases/tag/release
 
+EXE SCRIPT OPTION
+1. Download `OrganizeFlow.exe` https://github.com/everywherei/Google-Flow-Takeout-Organizer/releases/tag/release
+2. Put it to the `Flow` folder (inside the `Takeout` folder).
+3. Double-click ``OrganizeFlow.exe`.
+4. Read the simulation summary, then choose **C** (copy) or **M** (move), and what to do with the metadata.
+5. Your sorted files appear in a new `project` folder next to it.
+
+BAT SCRIPT OPTION (you need python)
 1. Download `organize_flow.py` and `RUN.bat`.
 2. Put both next to the `Flow` folder (inside the `Takeout` folder), or put a built `OrganizeFlow.exe` there.
 3. Double-click `RUN.bat` (or the `.exe`).
